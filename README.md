@@ -1,2 +1,2 @@
 # learning-git
-Simple repository to practice git commands
+This here needs to be some really good text
